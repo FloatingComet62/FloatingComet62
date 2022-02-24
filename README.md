@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5jkbw3FDS3bSSb4oLKYbjf'>Freak (feat. REI AMI), By Sub Urban; REI AMI</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3Wrjm47oTz2sjIgck11l5e'>Beggin', By Måneskin</a><b></h2>
