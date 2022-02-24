@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1bIgBdNPtfKDM4OT5lwPZj'>Enslaved, By Barren Gates; M.I.M.E</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/6KigD0mlF4VGDYiSEzAyYw'>Fight Back, By NEFFEX</a><b></h2>
