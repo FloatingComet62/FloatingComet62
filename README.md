@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/60a0Rd6pjrkxjPbaKzXjfq'>In the End, By Linkin Park</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/33MnSYLvtOrbj5zwfioEiH'>Be Somebody, By Thousand Foot Krutch</a><b></h2>
