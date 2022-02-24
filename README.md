@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/7wOqBOryVGD3nqDUihDSwL'>Rumors, By NEFFEX</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3pShTDa5E1bPBkrc1mxxGY'>Dirty, By grandson</a><b></h2>
