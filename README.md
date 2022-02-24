@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/4BRvD5QdauTo8EuUvYchu3'>A Line in the Sand, By Linkin Park</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/2fJxwz0aHPhSGiYt05UJsb'>Arise, By Flyleaf</a><b></h2>
