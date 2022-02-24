@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/studiousgamer/">
+  <a href="https://github.com/floatingcomet62/">
     <img src="https://github-readme-stats.vercel.app/api?username=floatingcomet62" alt="floatingcomet62"/>
   </a>
 </p>
