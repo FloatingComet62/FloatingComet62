@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5rAxhWcgFng3s570sGO2F8'>A Place for My Head, By Linkin Park</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/6FnCCh4RaAW9HSCEeCSOjZ'>Light Up, By Thousand Foot Krutch</a><b></h2>
