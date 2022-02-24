@@ -1,6 +1,6 @@
 
 <h1 align="center">Sup, I'm Aargh Rai AKA FloatingComet62</h1>
-<h2 align="center">A 15-year-old developer from Chandigarh, India<br>Check out my website!<br>https://floatingcomet62.github.io/</h2>
+<h2 align="center">A 15-year-old developer from Mars<br>Check out my website!<br>https://floatingcomet62.github.io/</h2>
 
 <p align="center">
   <a href="https://github.com/floatingcomet62/">
