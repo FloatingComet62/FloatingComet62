@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/2DlHlPMa4M17kufBvI2lEN'>Chop Suey!, By System Of A Down</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3aYBjxTMvrEOP0A0UXg9ER'>Final Masquerade, By Linkin Park</a><b></h2>
