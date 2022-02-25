@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/7wOqBOryVGD3nqDUihDSwL'>Rumors, By NEFFEX</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/2nLtzopw4rPReszdYBJU6h'>Numb, By Linkin Park</a><b></h2>
