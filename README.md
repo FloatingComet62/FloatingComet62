@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3pShTDa5E1bPBkrc1mxxGY'>Dirty, By grandson</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/6or1bKJiZ06IlK0vFvY75k'>Rap God, By Eminem</a><b></h2>
