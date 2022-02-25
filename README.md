@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/0AOmbw8AwDnwXhHC3OhdVB'>Courtesy Call, By Thousand Foot Krutch</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/6UzeOH4bRPzKTo2wCXMZmC'>By Myself, By Linkin Park</a><b></h2>
