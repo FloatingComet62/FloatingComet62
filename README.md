@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/2FVMbLuIxo0dz3KLXgN6Jh'>24, By Money Man</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/4RvWPyQ5RL0ao9LPZeSouE'>Everybody Wants To Rule The World, By Tears For Fears</a><b></h2>
