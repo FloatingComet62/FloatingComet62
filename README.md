@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5sNESr6pQfIhL3krM8CtZn'>Numb / Encore, By JAY-Z; Linkin Park</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/6FnCCh4RaAW9HSCEeCSOjZ'>Light Up, By Thousand Foot Krutch</a><b></h2>
