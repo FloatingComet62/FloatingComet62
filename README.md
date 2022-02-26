@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/7eJMfftS33KTjuF7lTsMCx'>death bed (coffee for your head), By Powfu; beabadoobee</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5uEYRdEIh9Bo4fpjDd4Na9'>Goosebumps - Remix, By Travis Scott; HVME</a><b></h2>
