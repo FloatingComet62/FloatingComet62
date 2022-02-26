@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/67CXgSwER3AaTU67HhxJCO'>Warriors, By Asketa & Natan Chaim; M.I.M.E; Requenze</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/0AUyNF6iFxMNQsNx2nhtrw'>Blood // Water, By grandson</a><b></h2>
