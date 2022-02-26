@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/38m1ijkLYvO1iqMLPx9gt7'>EVRBDY, By Dirty Rush & Gregor Es</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/7JAGL0wjf2lHoPUJ2oZF7w'>Revolution - Remix, By Sean&Bobo</a><b></h2>
