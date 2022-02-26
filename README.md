@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1tBYFeSNvHfVNeiLtn7EBR'>King Of The Damned, By Barren Gates; Alter.</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/2MBWrz01mTLmkDiPtG2tkL'>Brain Stew 10, By The Upside Downs</a><b></h2>
