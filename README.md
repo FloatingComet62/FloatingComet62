@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/6ibayfvVOby1NSKJFohtZp'>Light It Up, By Robin Hustin; TobiMorrow; Jex</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5cF0dROlMOK5uNZtivgu50'>Attention, By Charlie Puth</a><b></h2>
