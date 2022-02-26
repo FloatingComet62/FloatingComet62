@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/2oejEp50ZzPuQTQ6v54Evp'>Call You Mine, By The Chainsmokers; Bebe Rexha</a><b></h2>
+<h2 align="center"><b>Listening To Nothing<b></h2>
