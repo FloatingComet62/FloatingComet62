@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1326bnwC9n5ET98O7xwsJH'>Infinite Power, By TheFatRat</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/38m1ijkLYvO1iqMLPx9gt7'>EVRBDY, By Dirty Rush & Gregor Es</a><b></h2>
