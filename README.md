@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/0AUyNF6iFxMNQsNx2nhtrw'>Blood // Water, By grandson</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/4BVKDnYVUxbfBYJIip2RBp'>Devil, By Barren Gates</a><b></h2>
