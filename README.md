@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/0L27s5JOvVDxpBeUR8El86'>All The Things She Said - Remix, By Dylan Emanuel</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/4RvWPyQ5RL0ao9LPZeSouE'>Everybody Wants To Rule The World, By Tears For Fears</a><b></h2>
