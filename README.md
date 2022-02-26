@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1Xi84slp6FryDSCbzq4UCD'>Arcade, By Duncan Laurence</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/4gP0rV98IuCKj9xoKihB0k'>Stronger - Raiko Remix, By Prismo; Raiko</a><b></h2>
