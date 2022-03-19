@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/6N1K5OVVCopBjGViHs2IvP'>The Joker And The Queen (feat. Taylor Swift), By Ed Sheeran; Taylor Swift</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/7qiZfU4dY1lWllzX7mPBI3'>Shape of You, By Ed Sheeran</a><b></h2>
