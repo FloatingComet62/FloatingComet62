@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/0QBzMgT7NIeoCYy3sJCof1'>Bam Bam (feat. Ed Sheeran), By Camila Cabello; Ed Sheeran</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/0tgVpDi06FyKpA1z0VMD4v'>Perfect, By Ed Sheeran</a><b></h2>
