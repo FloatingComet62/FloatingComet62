@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1r9xUipOqoNwggBpENDsvJ'>Enemy (with JID) - from the series Arcane League of Legends, By Imagine Dragons; JID; Arcane; League of Legends</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3CLSHJv5aUROAN2vfOyCOh'>Close Eyes, By DVRST</a><b></h2>
