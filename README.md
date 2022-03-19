@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/7FIWs0pqAYbP91WWM0vlTQ'>Godzilla (feat. Juice WRLD), By Eminem; Juice WRLD</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3rmo8F54jFF8OgYsqTxm5d'>Bad Habits, By Ed Sheeran</a><b></h2>
