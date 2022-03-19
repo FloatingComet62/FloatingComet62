@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3CLSHJv5aUROAN2vfOyCOh'>Close Eyes, By DVRST</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1DIXPcTDzTj8ZMHt3PDt8p'>Gangsta's Paradise, By Coolio; L.V.</a><b></h2>
