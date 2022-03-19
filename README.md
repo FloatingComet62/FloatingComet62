@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1HNkqx9Ahdgi1Ixy2xkKkL'>Photograph, By Ed Sheeran</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3p3pDLBFVEMwi9v38BEsFC'>The Tale Of Naruto Uzumaki, By Yeat is God</a><b></h2>
