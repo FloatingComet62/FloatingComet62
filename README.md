@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1FpVJ7HpZInE2GvhVE2TwT'>Legends Never Die, By League of Legends; Against The Current</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3Ofmpyhv5UAQ70mENzB277'>Astronaut In The Ocean, By Masked Wolf</a><b></h2>
