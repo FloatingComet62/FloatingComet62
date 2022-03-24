@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5jkbw3FDS3bSSb4oLKYbjf'>Freak (feat. REI AMI), By Sub Urban; REI AMI</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1FpVJ7HpZInE2GvhVE2TwT'>Legends Never Die, By League of Legends; Against The Current</a><b></h2>
