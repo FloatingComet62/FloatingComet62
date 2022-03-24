@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5Z9KJZvQzH6PFmb8SNkxuk'>INDUSTRY BABY (feat. Jack Harlow), By Lil Nas X; Jack Harlow</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/2SL6oP2YAEQbqsrkOzRGO4'>Venom - Music From The Motion Picture, By Eminem</a><b></h2>
