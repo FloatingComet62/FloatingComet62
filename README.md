@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3jKtdhQ5fy1JfUFc43ayx1'>Death Note - L's Theme - Main Theme, By Geek Music</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/7wOqBOryVGD3nqDUihDSwL'>Rumors, By NEFFEX</a><b></h2>
