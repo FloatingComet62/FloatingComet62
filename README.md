@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/67CXgSwER3AaTU67HhxJCO'>Warriors, By Asketa & Natan Chaim; M.I.M.E; Requenze</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5cF0dROlMOK5uNZtivgu50'>Attention, By Charlie Puth</a><b></h2>
