@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/5cF0dROlMOK5uNZtivgu50'>Attention, By Charlie Puth</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3oLe5ZILASG8vU5dxIMfLY'>The Search, By NF</a><b></h2>
