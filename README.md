@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/3f4fc8c8unrQeKecmUPEDR'>Warriors, By League of Legends; 2WEI; Edda Hayes</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/67CXgSwER3AaTU67HhxJCO'>Warriors, By Asketa & Natan Chaim; M.I.M.E; Requenze</a><b></h2>
