@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/1TfqLAPs4K3s2rJMoCokcS'>Sweet Dreams (Are Made of This) - Remastered, By Eurythmics; Annie Lennox; Dave Stewart</a><b></h2>
+<h2 align="center"><b>Listening To: <a href='https://open.spotify.com/album/0pqnGHJpmpxLKifKRmU6WP'>Believer, By Imagine Dragons</a><b></h2>
