@@ -1,6 +1,6 @@
 
 <h1 align="center">Sup, I'm Aargh Rai AKA FloatingComet62</h1>
-<h2 align="center">A 15-year-old developer<br>Check out my website!<br>https://floatingcomet62.github.io</h2>
+<h2 align="center">A 15-year-old developer<br>Mostly skilled at designing frontends<br>Check out my website!<br>https://floatingcomet62.github.io</h2>
 
 <p align="center">
   <a href="https://github.com/floatingcomet62/">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/floatingcomet62/">
-    <img src="https://github-readme-stats.vercel.app/api?username=floatingcomet62" alt="floatingcomet62"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=floatingcomet62&show_icons=true&theme=dark" alt="floatingcomet62"/>
   </a>
 </p>
 
